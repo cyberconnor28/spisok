@@ -1,0 +1,28 @@
+h1{
+    color: rgb(157, 0, 255);
+    font-size: 32px;
+    font-weight: bold;
+}
+
+ul{
+    margin-top: 20px;
+}
+li+ul{
+    margin-left: 8%;
+    list-style-type:disc;
+    font-size: 18;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgb(230, 87, 255);
+}
+
+.l{
+    margin-left: 4%;
+    font-weight: bold;
+    font-size: 24px;
+    font-style: italic;
+    color: rgb(255, 0, 170);
+}
+
